@@ -1,4 +1,4 @@
-const baseURL = 'http://localhost:3000'
+const baseURL = 'https://gentle-island-80741.herokuapp.com'
 const container = document.querySelector('#get-all-container')
 
 document.addEventListener("DOMContentLoaded", () => {
