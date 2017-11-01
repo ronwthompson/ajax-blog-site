@@ -1,0 +1,31 @@
+#bottom {
+    position: fixed;
+    bottom: 0;
+    background-color: #DDD;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.post {
+    margin-bottom: 50px;
+}
+
+ul {
+    margin: 0;
+}
+
+ul li {
+    text-decoration: none;
+    display: inline;
+}
+
+a {
+    margin: 10px 20px;
+}
+
+a:hover {
+    cursor: pointer;
+}
